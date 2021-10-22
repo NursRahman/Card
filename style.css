@@ -1,0 +1,16 @@
+#output{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin-left: 13%;
+    font-family: "Ubuntu";
+    color: whitesmoke;
+}
+
+.card{
+    width: 40%;
+    padding: 13px;
+    margin: 13px;
+    border-radius: 13px;
+    background-color: rgb(71, 0, 138);
+}
